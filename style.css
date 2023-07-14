@@ -1,0 +1,47 @@
+body{
+    background:url("https://images.pexels.com/photos/188035/pexels-photo-188035.jpeg?cs=srgb&dl=pexels-ingo-joseph-188035.jpg&fm=jpg");
+    background-repeat:no-repeat ;
+    background-size:cover ;
+}
+#heading{
+    height:75px;
+    width:600px;
+    background:darkblue ;
+    color:white;
+    margin:auto;
+    margin-top:35px;
+    border-radius: 40%;
+    border:3px solid black;
+}
+#heading h1{
+    text-align: center;
+    
+    
+}
+#label{
+    display:flex;
+    width: 400px;
+    justify-content:space-between;
+}
+#table{
+    display:flex;
+    width: 400px;
+    justify-content:space-between;
+}
+form{
+    background:rgba(8, 23, 238, 0.4) ;;
+    color:white;
+    width:700px;
+    margin:auto;
+    margin-top:30px;
+}
+#Birth{
+    display:flex;
+    width: 600px;
+    justify-content:space-between;
+}
+#box{
+    display:flex;
+    width: 530px;
+    justify-content:space-between;
+}
